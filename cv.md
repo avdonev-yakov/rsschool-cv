@@ -1,5 +1,3 @@
-
-
 **Yakov Avdonev**
 
 *E-mail: avdonevyakov@gmail.com*
