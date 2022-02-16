@@ -1,1 +1,1 @@
-#rsschool-cv
+ https://avdonev.github.io/rsschool-cv/
